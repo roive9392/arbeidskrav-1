@@ -1,2 +1,2 @@
-# arbeidskrav-1
-Svar til Arbeidskrav 1
+# Arbeidskrav 1
+Dette er mitt svar på Arbeidskrav 1 til Grunnleggende programmering med Python
